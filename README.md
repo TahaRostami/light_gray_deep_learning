@@ -14,7 +14,7 @@ Navigating the complexities of deep learning frameworks can be daunting due to t
 
 To get started with this curriculum:
 
-1. **Check out the `docs/` folder** and read the PDF which describes the curriculum.
+1. **Check out the `docs/` folder** to read the PDF that describes the curriculum. Alternatively, you can read the article on Medium: [Struggling with Deep Learning Frameworks? A Good Curriculum Is Likely What You Need](https://medium.com/@taha.rostami.darunkola/struggling-with-deep-learning-frameworks-a-good-curriculum-is-likely-what-you-need-ae2dbd89340a).
 2. **Follow the curriculum** outlined in the document.
 3. **Use the code available in the `src/` directory** alongside the great references provided there to accelerate your learning.
 
